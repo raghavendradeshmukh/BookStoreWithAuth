@@ -1,0 +1,15 @@
+{
+  "books": [
+    {
+      "id": 5,
+      "author": "ccccccc",
+      "title": "ccccccc",
+      "cost": 444
+    }
+  ],
+  "auth": {
+    "id": 0,
+    "emailID": "ccccc",
+    "password": "ccccc"
+  }
+}
